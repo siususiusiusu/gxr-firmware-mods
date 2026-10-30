@@ -1,0 +1,10 @@
+# Ricoh firmware and build output: never commit these
+[ijknq]launch[0-9]
+l0[0-9]firm[0-9]
+*.zip
+*.hqx
+out/
+recovery/
+*.tmp
+__pycache__/
+.DS_Store
